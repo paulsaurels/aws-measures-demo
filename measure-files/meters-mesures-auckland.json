@@ -1,0 +1,27 @@
+{
+    "mesuares":[{
+        "meterId":"METER_A01",
+        "measureDate":"2019-07-29 10:30:00",
+        "measure":"219083"
+    },
+    {
+        "meterId":"METER_A02",
+        "measureDate":"2019-07-19 11:00:00",
+        "measure":"195083"
+    },
+    {
+        "meterId":"METER_B01",
+        "measureDate":"2019-07-30 01:00:00",
+        "measure":"33083"
+    },
+    {
+        "meterId":"METER_C01",
+        "measureDate":"2019-07-04 06:30:00",
+        "measure":"943083"
+    },
+    {
+        "meterId":"METER_D01",
+        "measureDate":"2019-07-20 09:23:00",
+        "measure":"84343"
+    }]
+}
