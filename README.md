@@ -1,4 +1,4 @@
-# Gentrack - Solution Arcitecture Proposal  
+# Gentrack - Solution Architecture Proposal  
 
 This solution proposal was thought to be implemented with AWS Services having its frontend and backend being considered in the scope of the solution. Also considerations about deployment with continuous integrations (CI), continuous delivery (CD) as well as considerations about security. 
 
