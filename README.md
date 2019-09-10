@@ -1,10 +1,10 @@
-# Gentrack - Solution Architecture Proposal  
+# Solution Architecture Proposal  
 
 This solution proposal was thought to be implemented with AWS Services having its frontend and backend being considered in the scope of the solution. Also considerations about deployment with continuous integrations (CI), continuous delivery (CD) as well as considerations about security. 
 
 ## Problem
 
-Gentrack receives loads of text files every day which have measures of the power or the water consumed by its customers. Which line in these files is about one measure gauged at the meter device from a consumer house. 
+The company receives loads of text files every day which have measures of the power or the water consumed by its customers. Which line in these files is about one measure gauged at the meter device from a consumer house. 
 
 # Technological Stack used in this Proposal of Solution
 
